@@ -10,3 +10,13 @@ class Car:
 c1 = Car("Benz", 2026, "Red")
 c2 = Car("BMW", 2020, "Blue")
 c3 = Car("206", 2022, "white")
+
+
+
+class Student:
+    major = "CS"
+    university = "Shiraz"
+    max_years = 5
+
+s1 = Student()    
+s2 = Student()  
